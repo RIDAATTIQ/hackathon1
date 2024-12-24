@@ -1,4 +1,40 @@
+  GNU nano 8.2                       .gitignore
 AppData/
+
+
+
+
+
+
+
+
+
+
+
+
+AppData/# Ignore system files, directories, and node_modules
+**/NTUSER.DAT
+
+
+**/AppData/
+**/Documents/
+**/Downloads/
+**/node_modules/
+**/.vscode/
+*.log
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
